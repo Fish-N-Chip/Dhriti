@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  font-family: "poppins";
+}
+
+title {
+  display: none;
+}
+
+style {
+  display: none;
+}
+
+body {
+  width: 100vw;
+  min-height: 100vh;
+  color: #15023a;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
